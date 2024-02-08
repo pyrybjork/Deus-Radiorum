@@ -2,6 +2,8 @@
 
 Ideana oli verrata meidän mittauksia Segeyltä saatuun malliin, joka esittää täälläpäin havaittavaa säteilyä korkeuteen verrattuna. Ongelmana on kuitenkin, että ilmeisesti meidän muovi näyttää vain myonisäteilyä ja tuo malli näyttää kokonaissäteilyn. 
 
+Sergey-kansiossa on sen lähettämät scriptit, mutta en saanut niitä toimimaan. Kysyin Sergeyltä, unohtiko se lähettää tuon _common kirjaston vai enkä vaan osannut.
+
 ## Tietoa Sergeyn mallista
 
 This radiation originates from so-called "showers" of different secondary particles (protons, neutrons, electrons, gamma-rays) which are the product of interaction between cosmic rays and nuclei of the atmosphere.
